@@ -1,0 +1,5 @@
+# Visual Studio Code config dir.
+.vscode
+
+# Finder meta files on MacOS
+.DS_Store
